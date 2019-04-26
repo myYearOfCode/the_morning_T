@@ -57,3 +57,5 @@ gem 'shoulda-matchers', group: [:development, :test], require: false
 gem 'devise'
 gem 'foundation-rails', '>= 6.5.3.0'
 gem 'webpacker', '~> 3.3'
+gem 'fog-aws'
+gem 'carrierwave'
